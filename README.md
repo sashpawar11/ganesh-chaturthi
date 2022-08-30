@@ -1,3 +1,6 @@
 # ganesh-chaturthi
 
-## Simple Line Art using Turtle Library in Python/
+## Simple Line Art
+
+- Turtle Library 
+- Python
